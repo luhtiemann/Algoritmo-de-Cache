@@ -1,0 +1,53 @@
+Relatório de Simulação
+
+Usuario 1
+
+FIFO
+Tempo médio: 0.001s
+Número de cache misses: 174
+Número de cache hit: 26
+
+LRU
+Tempo médio: 0.001s
+Número de cache misses: 159
+Número de cache hit: 41
+
+LFU
+Tempo médio: 0.001s
+Número de cache misses: 163
+Número de cache hit: 37
+
+Usuario 2
+
+FIFO
+Tempo médio: 0.001s
+Número de cache misses: 178
+Número de cache hit: 22
+
+LRU
+Tempo médio: 0.001s
+Número de cache misses: 175
+Número de cache hit: 25
+
+LFU
+Tempo médio: 0.001s
+Número de cache misses: 177
+Número de cache hit: 23
+
+Usuario 3
+
+FIFO
+Tempo médio: 0.001s
+Número de cache misses: 175
+Número de cache hit: 25
+
+LRU
+Tempo médio: 0.001s
+Número de cache misses: 172
+Número de cache hit: 28
+
+LFU
+Tempo médio: 0.001s
+Número de cache misses: 168
+Número de cache hit: 32
+
